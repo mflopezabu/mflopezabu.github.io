@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-All the content of this site represents at most my view and my view only.
+All the content on this site represents at most my view and my view only.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is a space intended to divulge quantitative finance experiments. Sometimes they involve real market data (probably from Latin-American markets). And even fewer times, they will be useful.
+This is a space intended to divulge quantitative finance experiments. Sometimes they involve real market data (probably from Latin-American; home bias is real). And even fewer times, they will be useful.
