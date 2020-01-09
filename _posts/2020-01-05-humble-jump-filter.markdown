@@ -90,7 +90,7 @@ The results of the estimation are presented in the following table.[^stderr] As 
 | $$\mu_J$$    	| -6.000 	| -6.118	|  0.358 	|
 | $$\sigma_J$$ 	|  3.000 	|  3.037 	|  0.257 	|
 
-Now, if we identify a jump only when its probability is greater than 50%, how many of the actual jumps did the filter capture? To answer this, let's look at the [confusion matrix][confMatrix]. From it we may read that most of the no-jump movements were correctly identified as such. Meanwhile, from 469 actual jumps, only 352 were correctly labeled as such while 117 were mislabeled.[^jumps] Should we worry about missing those? 
+Now, if we identify a jump only when its probability is greater than 50%, how many of the actual jumps did the filter capture? To answer this, let's look at the [confusion matrix][confMatrix]. The first column reads as most of the no-jump movements were correctly identified as such. The next column tells us that from 469 actual jumps, only 352 were correctly labeled as such whereas 117 were not.[^jumps] Should we worry about missing those jumps? 
 
 |  Predicted vs. Actual | No Jump | Jump |  Total |
 |:---------------------:|:-------:|:----:|:------:|
