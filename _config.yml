@@ -22,7 +22,7 @@ title: Free Lunch
 author: Matias Lopez Abukalil
 email: matias_lopez@mfe.berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  There is no such a thing.
+  There is no such thing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: mflopezabu
